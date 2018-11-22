@@ -1,0 +1,6 @@
+Keras==2.1.5
+tensorflow==1.9.0
+Flask==1.0.2
+Flask-Cors==3.0.6
+h5py==2.7.1
+mongoengine==0.15.0
